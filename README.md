@@ -41,7 +41,7 @@ selected-projects/
 ### Dynamics and Control
 - **Multibody Dynamics (Locomotion)** — multibody dynamics simulation framework using differential-algebraic equations (DAEs), with applications to robotic locomotion  
 - **Optimal Control (Rocket)** — trajectory optimization via steepest descent for a nonlinear rocket model under dynamic constraints  
-- **Simplified Model of Serpentine Locomotion** — reduced-order modeling of snake-like motion and propulsion mechanisms  
+- **Simplified Model of Serpentine Locomotion** — My 2017 MS thesis: reduced-order modeling of serpentine locomotion; closed-form expression for optimal phase offset to maximize forward speed.
 
 ### Estimation and Filtering
 - **Kalman Filtering (Continuous & Discrete)** — implementations of linear state estimation with process and observation noise  
