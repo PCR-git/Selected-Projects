@@ -23,7 +23,7 @@ selected-projects/
 │   ├── discrete-time-kalman-filter/
 │   └── slam-linear-systems/
 │
-├── graph-and-probabilistic-models/
+└── graph-and-probabilistic-models/
     ├── graph-inference-and-mcmc/
     ├── dynamic-gnn-ode-expansion/
     └── self-avoiding-walks/
