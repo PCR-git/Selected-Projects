@@ -15,7 +15,8 @@ selected-projects/
 │
 ├── dynamics-and-control/
 │   ├── multibody-dynamics-locomotion/
-│   └── optimal-control-rocket/
+│   ├── optimal-control-rocket/
+│   └── simplified-model-of-serpentine-locomotion/
 │
 ├── estimation-and-filtering/
 │   ├── continuous-time-kalman-filter/
