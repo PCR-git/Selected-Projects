@@ -29,3 +29,25 @@ selected-projects/
     └── self-avoiding-walks/
 
 ```
+
+## Project Descriptions
+
+### Decision Making
+- **Gridworld MDP** — stochastic control environment with value iteration and policy analysis under noise and reward variation  
+- **Monte Carlo Rollout Policy (Tic-Tac-Toe)** — simple planning via rollout-based value estimation and empirical policy improvement  
+- **2D Motion Planning** — obstacle generation, collision detection, and visibility graph construction for shortest-path planning with A*  
+- **Tree Q-Learning** — reinforcement learning with RRT*-style exploration, replacing ε-greedy sampling and enabling backtracking through a learned search tree  
+
+### Dynamics and Control
+- **Multibody Dynamics (Locomotion)** — multibody dynamics simulation framework using differential-algebraic equations (DAEs), with applications to robotic locomotion  
+- **Optimal Control (Rocket)** — trajectory optimization via steepest descent for a nonlinear rocket model under dynamic constraints  
+- **Simplified Model of Serpentine Locomotion** — reduced-order modeling of snake-like motion and propulsion mechanisms  
+
+### Estimation and Filtering
+- **Kalman Filtering (Continuous & Discrete)** — implementations of linear state estimation with process and observation noise  
+- **SLAM (Linear Systems)** — joint state and landmark estimation using Kalman filtering and maximum likelihood updates  
+
+### Graph and Probabilistic Models
+- **Graph Inference and MCMC** — probabilistic inference on graph structures using sampling-based methods  
+- **Dynamic GNN / ODE Expansion** — exploration of graph neural networks with continuous-time dynamics  
+- **Self-Avoiding Walks** — simulation and analysis of constrained random walks with applications to statistical physics  
