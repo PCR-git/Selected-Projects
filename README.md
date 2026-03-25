@@ -24,11 +24,8 @@ selected-projects/
 │   └── slam-linear-systems/
 │
 ├── graph-and-probabilistic-models/
-│   ├── graph-inference-and-mcmc/
-│   ├── dynamic-gnn-ode-expansion/
-│   └── self-avoiding-walks/
-│
-└── small-projects/
-    ├── mandelbrot/
-    └── residency-matching/
+    ├── graph-inference-and-mcmc/
+    ├── dynamic-gnn-ode-expansion/
+    └── self-avoiding-walks/
+
 ```
