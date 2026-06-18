@@ -21,7 +21,8 @@ selected-projects/
 ├── estimation-and-filtering/
 │   ├── continuous-time-kalman-filter/
 │   ├── discrete-time-kalman-filter/
-│   └── slam-linear-systems/
+│   ├── slam-linear-systems/
+│   └── transformers-with-next-embedding-prediction/
 │
 └── graph-and-probabilistic-models/
     ├── graph-inference-and-mcmc/
@@ -45,7 +46,8 @@ selected-projects/
 
 ### Estimation and Filtering
 - **Kalman Filtering (Continuous & Discrete)** — implementations of linear state estimation with process and observation noise  
-- **SLAM (Linear Systems)** — joint state and landmark estimation using Kalman filtering and maximum likelihood updates  
+- **SLAM (Linear Systems)** — joint state and landmark estimation using Kalman filtering and maximum likelihood updates
+- **Transformers with Next-Embedding Prediction** — An approach to jointly train next-token and future-latent objectives so hidden representations become predictive state estimates rather than purely local next-token features.
 
 ### Graph and Probabilistic Models
 - **Graph Inference and MCMC** — probabilistic inference on graph structures using sampling-based methods  
